@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Myo Myint Aung@dev-mma
-- i don't know how to code so i don't code :3 
+- i don't code cos i don't know how to code :3 
 
 
 <!---
